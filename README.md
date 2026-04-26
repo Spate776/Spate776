@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shiv Patel 
 
-<!--
-**Spate776/Spate776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UIC focused on backend development, data structures, and building real-world applications. I enjoy solving complex problems and turning ideas into scalable software.
 
-Here are some ideas to get you started:
+## Projects
+- **OpenStreetMap Route Planner**  
+  C++ application that constructs a graph from OpenStreetMap data and uses Dijkstra’s algorithm to compute optimal routes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Custom HashMap Implementation**  
+  Built from scratch in C++ using hashing and chaining.
+
+## Skills
+- C++, Python, Java
+- Data Structures & Algorithms
+- Backend Development
+- REST APIs
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/shivpatel2975/
