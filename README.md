@@ -4,9 +4,11 @@ Computer Science student at UIC focused on backend development, data structures,
 
 ## Projects
 - **OpenStreetMap Route Planner**  
+  https://github.com/Spate776/openstreetmap-route-planner  
   C++ application that constructs a graph from OpenStreetMap data and uses Dijkstra’s algorithm to compute optimal routes.
 
 - **Custom HashMap Implementation**  
+  https://github.com/Spate776/custom-hashmap-cpp  
   Built from scratch in C++ using hashing and chaining.
 
 ## Skills
