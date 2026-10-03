@@ -11,6 +11,10 @@ Computer Science student at UIC focused on backend development, data structures,
   https://github.com/Spate776/custom-hashmap-cpp  
   Built from scratch in C++ using hashing and chaining.
 
+- **Ultimate Chess**
+  https://github.com/Spate776/ultimate-chess
+  Two player chess game in Python turtle with hand drawn pieces, a board that warps after every move, and checkmate detection.
+
 ## Skills
 - C++, Python, Java
 - Data Structures & Algorithms
